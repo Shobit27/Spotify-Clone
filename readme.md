@@ -1,4 +1,3 @@
-# Spotify Clone
 <h1 align="center">Spotify Clone</h1>
 <p align="center">A responsive music player inspired by Spotify, built with plain HTML, CSS and JavaScript.</p>
 
